@@ -1,0 +1,13 @@
+.myBtn {
+    border: 2px solid teal;
+    padding: 5px 15px;
+    background: transparent;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bolder;
+    color: teal;
+}
+
+:disabled {
+    background: #ccc;
+}
